@@ -1,6 +1,6 @@
 {
-  "name": "flexbox-react",
-  "version": "4.4.0",
+  "name": "@g07cha/flexbox-react",
+  "version": "5.0.0",
   "description": "Unopinionated, standard compliant flexbox component. No propietary APIs. Nothing but flexbox.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nachoaIvarez/flexbox-react.git"
+    "url": "git+https://github.com/G07cha/flexbox-react.git"
   },
   "keywords": [
     "react",
@@ -28,11 +28,16 @@
     "layout"
   ],
   "author": " <ignacioalvarez92@gmail.com>",
+  "contributors": [{
+    "name" : "G07cha",
+    "email" : "azizovkostya97@gmail.com",
+    "url" : "https://github.com/G07cha"
+  }],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nachoaIvarez/flexbox-react/issues"
+    "url": "https://github.com/G07cha/flexbox-react/issues"
   },
-  "homepage": "https://github.com/nachoaIvarez/flexbox-react#readme",
+  "homepage": "https://github.com/G07cha/flexbox-react#readme",
   "optionalDependencies": {
     "@types/react": "^16.0.34",
     "@types/react-dom": "^16.0.3"
