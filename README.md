@@ -55,9 +55,9 @@ component.
 ## Install
 
 ```sh
-yarn add flexbox-react
+yarn add @g07cha/flexbox-react
 # or
-npm install --save flexbox-react
+npm install --save @g07cha/flexbox-react
 ```
 
 ## Usage
