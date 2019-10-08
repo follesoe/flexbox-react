@@ -1,6 +1,6 @@
 {
   "name": "@follesoe/flexbox-react",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Unopinionated, standard compliant flexbox component. No propietary APIs. Nothing but flexbox.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/G07cha/flexbox-react.git"
+    "url": "git+https://github.com/follesoe/flexbox-react.git"
   },
   "keywords": [
     "react",
@@ -35,9 +35,9 @@
   }],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/G07cha/flexbox-react/issues"
+    "url": "https://github.com/follesoe/flexbox-react/issues"
   },
-  "homepage": "https://github.com/G07cha/flexbox-react#readme",
+  "homepage": "https://github.com/follesoe/flexbox-react#readme",
   "optionalDependencies": {
     "@types/react": "^16.0.34",
     "@types/react-dom": "^16.0.3"
