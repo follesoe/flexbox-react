@@ -1,6 +1,6 @@
 {
-  "name": "@g07cha/flexbox-react",
-  "version": "5.0.0",
+  "name": "@follesoe/flexbox-react",
+  "version": "5.1.0",
   "description": "Unopinionated, standard compliant flexbox component. No propietary APIs. Nothing but flexbox.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
