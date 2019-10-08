@@ -73,9 +73,10 @@
     "watch": "^1.0.2"
   },
   "dependencies": {
-    "styled-components": "^2.0.0"
+    "styled-components": "^4.4.0"
   },
   "jest": {
-    "testEnvironment": "jsdom"
+    "testEnvironment": "jsdom",
+    "testURL": "http://localhost/"
   }
 }
